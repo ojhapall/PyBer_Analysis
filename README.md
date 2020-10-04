@@ -10,6 +10,8 @@ The graph shows that there is a peak at the end of february for all city types.
 
 The graph also shows that drivers in Urban cities collect more fares than drivers in Rural cities. 
 
+![PyBer_Fare_Summary_Plot](https://user-images.githubusercontent.com/68453460/95029639-88260500-0677-11eb-9eb8-5b219ddf6b82.png)
+
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
 Based on the performance of all cities, during the end of february, increasing the driver count may also increase the total Fares. Secondly, the data shows that drivers in Urban cities perform much better so there should also be an increase in the driver count for Urban cities. Finally, it seems as though the Suburban cities will be hitting another peak during May so the driver county there should increase. The decline in rural should result in a decrease driver count to compensate for the increase in traffic. 
